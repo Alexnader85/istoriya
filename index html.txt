@@ -1,0 +1,39 @@
+v<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>История Просто</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f2f2f2; }
+    header { background-color: #2f2f8f; color: white; padding: 20px; text-align: center; }
+    nav { background-color: #444; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; }
+    main { padding: 20px; max-width: 800px; margin: auto; background-color: white; }
+    footer { text-align: center; padding: 15px; background-color: #2f2f8f; color: white; position: fixed; bottom: 0; width: 100%; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>История Просто</h1>
+    <p>Интересные факты и тайны прошлого</p>
+  </header>
+
+  <nav>
+    <a href="index.html">Главная</a>
+    <a href="makedonskiy.html">Александр Македонский</a>
+    <a href="rim.html">Римская Империя</a>
+    <a href="vikingi.html">Викинги</a>
+  </nav>
+
+  <main>
+    <h2>Добро пожаловать в мир истории!</h2>
+    <p>Выберите одну из тем, чтобы узнать больше о великих исторических личностях и событиях.</p>
+  </main>
+
+  <footer>
+    &copy; 2025 История Просто. Все права защищены.
+  </footer>
+</body>
+</html>
+index.html
